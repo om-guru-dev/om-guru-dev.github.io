@@ -8,6 +8,7 @@ logo: false
 paginate: 15
 baseurl: /
 google_analytics: 'UA-51523630-2'
+domain_name: 'http://om-ninja.github.io'
 
 
 # Details for the RSS feed generator

@@ -1,0 +1,14 @@
+name: ॐ Guru Dev
+description: Front-end Development Class using Om.
+meta_description: "Front-end Development Class using Om."
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+google_analytics: 'UA-XXXXXXXX-X'
+
+# Details for the RSS feed generator
+url:            'om-guru-dev.github.io'
+author:         'Prabhas Pokharel & Nirab Pudasaini'

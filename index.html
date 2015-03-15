@@ -3,7 +3,6 @@ layout: default
 title: Home
 cover: false
 about: 'about.html'
-signup: 'http://edushala.com/learn/technology/8967cf544e144cdb82886f401af9a602/%7Bslug%7D'
 ---
 
 <header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
@@ -20,7 +19,11 @@ signup: 'http://edushala.com/learn/technology/8967cf544e144cdb82886f401af9a602/%
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.signup %} <a href='{{page.signup}}'> Sign Up Here! </a> {% endif %}
+            </h2>
+            <h2>
+                <a href="http://edushala.com/learn/technology/8967cf544e144cdb82886f401af9a602/%7Bslug%7D">
+                    Sign up Here!
+                </a>
             </h2>
         </div>
     </div>

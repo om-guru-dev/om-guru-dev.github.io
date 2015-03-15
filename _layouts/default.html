@@ -29,10 +29,12 @@
         <a href="http://github.com/rosario/kasper">Kasper theme</a>
       </section>
     </footer>
-    
+    {%if page.jsdep %} <script type="text/javascript" src="{{page.jsdep}}"></script> {% endif %}
     <script type="text/javascript" src="/assets/js/jquery-1.11.1.min.js"></script>
     <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
     <script type="text/javascript" src="/assets/js/index.js"></script>
+    {%if page.js %} <script type="text/javascript"> {{page.js}}</script> {% endif %}
+    
 
     <!-- Google Analytics Tracking code -->
     <script type="text/javascript">

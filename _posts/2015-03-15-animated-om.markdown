@@ -7,25 +7,9 @@ author: Prabhas Pokharel
 jsdep: '/assets/js/vivus.min.js'
 js: 'var om = new Vivus("animated-om", {type: "oneByOne", duration: 200})'
 ---
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="63.241837mm"
-   height="33.040726mm"
-   viewBox="0 0 224.08525 117.07344"
-   id="animated-om"
-   onclick="om.reset().play();"
-   version="1.1"
-   sodipodi:docname="om_path.svg">
+<svg width="63.241837mm" height="33.040726mm" viewBox="0 0 224.08525 117.07344"
+   id="animated-om" onclick="om.reset().play();">
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
      transform="translate(-119.54172,-128.7008)">
     <path
        style="stroke:#000000; fill: #FFF"

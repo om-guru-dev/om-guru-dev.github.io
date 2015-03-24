@@ -1,4 +1,4 @@
-[ॐ Guru Dev](http://om-guru-dev.github.io/)
+[ॐ Ninja](http://om-ninja.github.io/)
 ---
 
 Notes:

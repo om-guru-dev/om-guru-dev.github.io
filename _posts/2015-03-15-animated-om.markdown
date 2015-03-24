@@ -22,4 +22,5 @@ js: 'var om = new Vivus("animated-om", {type: "oneByOne", duration: 200})'
 
 I hope you feel as _animated_ as this ॐ about taking the class, if you know what I mean :)
 
+Click on the icon to replay the animation.
 _Made using [vivus.js](http://maxwellito.github.io/vivus/)_

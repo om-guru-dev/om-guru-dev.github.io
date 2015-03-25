@@ -7,8 +7,9 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-51523630-2'
+
 
 # Details for the RSS feed generator
-url:            'om-guru-dev.github.io'
+url:            'om-ninja.github.io'
 author:         'Prabhas Pokharel & Nirab Pudasaini'
